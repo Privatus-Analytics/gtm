@@ -1,0 +1,7 @@
+homepage: "https://privatusanalytics.com"
+documentation: "https://privatusanalytics.com/docs/google-tag-manager"
+versions:
+  # Latest version first. Replace the sha with the commit that contains template.tpl when publishing.
+  - sha: 0000000000000000000000000000000000000000
+    changeNotes: |2
+      Initial release.
