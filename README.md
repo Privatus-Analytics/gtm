@@ -1,5 +1,22 @@
 # Privatus Analytics – Google Tag Manager templates
 
+**Track sign-ups and sales from Google Tag Manager, with analytics that sets no cookies.**
+
+Your tags live in Google Tag Manager. You want to count sign-ups, sales and
+other key clicks, but you don't want to change your site's code each time.
+
+Load the Privatus Analytics script with one Custom HTML tag. Then this Event tag
+template sends events, like a sign-up or a purchase with its value, from the
+triggers you already have. Events that fire before the script loads are kept and
+sent once it is ready.
+
+So you see which pages and sources lead to sign-ups and sales, on one simple
+dashboard, with bots left out. Privatus Analytics itself sets no cookies.
+
+**Free plan, no card:** 10,000 events a month (an event is a page view or an action you track) on up to 3 sites. [Start free at privatusanalytics.com](https://privatusanalytics.com).
+
+## About this repo
+
 A custom tag template for GTM web containers, used together with the tracking script:
 
 | File | Tag | What it does |
